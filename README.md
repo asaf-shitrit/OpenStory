@@ -1,7 +1,5 @@
 
 
-CI builds both the client and the launcher on every push (Actions → artifacts).
-
 ## Screenshots
 
 ### Status Bar
